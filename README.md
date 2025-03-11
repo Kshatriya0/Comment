@@ -1,6 +1,3 @@
 <<<<<<< HEAD
 # Recommnet
-This is a program that helps you make comment at naver blog
-=======
-# Comment
->>>>>>> b4daabd79cf0ea725df3913374c7004c67a37e23
+네이버 블로그 답방 프로그램입니다.
